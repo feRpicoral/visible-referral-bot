@@ -2,91 +2,108 @@
 # Add, remove, or rewrite freely — the bot picks one at random per post.
 templates:
   - |
-    # ✨ Visible referral code — get $20 off!
+    ## 💸 $20 OFF Visible — Code Below ⬇️
 
-    Use code: **{code}**
+    |     |     |
+    | --- | --- |
+    | 🎟️ **Code** | **`{code}`** |
+    | 🔗 **Link** | {link} |
 
-    [Use my referral link]({link})
-
-    We both save **$20**. Thanks if you use it!
-
-  - |
-    Hey! Switching to Visible? Here's $20 off your first month:
-
-    **Code:** `{code}`
-
-    **Link:** {link}
-
-    Appreciate it 🙏
+    We **both** save $20. Cheers! 🎉
 
   - |
-    Saving $20 with my Visible referral if anyone needs one:
+    # 🚀 Visible Referral — Save $20!
 
-    `{code}` — {link}
+    > Use code **`{code}`** at signup
 
-  - |
-    **$20 off Visible** for a new sign-up — code below, link too:
+    👉 [Tap here to activate]({link})
 
-    - Code: **{code}**
-    - Link: <{link}>
-
-    Cheers, and welcome to the network!
+    Thanks so much! 💜
 
   - |
-    Anyone joining Visible this round? Feel free to use mine — saves us both $20:
+    Hey! 👋 Here's a Visible referral if you need one:
 
-    Code **{code}** → {link}
+    - 🎟️ **Code:** `{code}`
+    - 🔗 **Link:** {link}
+    - 💵 **Savings:** $20 for you, $20 for me
 
-  - |
-    Happy to share my Visible referral. Knocks $20 off your first month.
-
-    ```
-    Code: {code}
-    Link: {link}
-    ```
-
-    Thanks if you go this route!
+    Appreciate it! 🙏
 
   - |
-    Visible referral inside ⬇️
+    ### ✨ $20 off Visible ✨
 
-    **{code}** — [tap here]({link})
+    Use code **`{code}`** when signing up:
 
-    $20 savings for both of us. Much appreciated.
+    🔗 {link}
 
-  - |
-    Been on Visible for a while and it's been solid. If you're signing up, my referral gets you $20 off:
-
-    `{code}` · {link}
+    Win-win — we both save. Thanks! 🤝
 
   - |
-    Dropping my code in case it helps someone:
+    📱 **Visible referral** — $20 off your first month:
 
-    > **{code}**
+    - Code: **`{code}`**
+    - Link: {link}
+
+    Much appreciated! 💜
+
+  - |
+    ## 🎁 $20 off Visible in 3 steps
+
+    1. 🌐 Visit → {link}
+    2. ⌨️ Apply code → **`{code}`**
+    3. 🎉 Save **$20** on month one
+
+    Thanks if you go with mine!
+
+  - |
+    > # 💜 Visible Referral
     >
-    > {link}
+    > Code: **`{code}`**
+    >
+    > [Activate $20 off]({link})
 
-    $20 off for you, $20 for me. No pressure.
-
-  - |
-    Friendly Visible referral 👋
-
-    Code: **{code}**
-    Link: {link}
-
-    Saves you $20 on your first month. Thanks in advance!
+    Welcome to the network! 👋
 
   - |
-    If you're shopping referral codes, here's mine:
+    | 💸 $20 OFF | Visible Referral |
+    | :-: | :-: |
+    | 🎟️ Code | **`{code}`** |
+    | 🔗 Link | {link} |
 
-    - **{code}**
-    - {link}
-
-    Standard $20-off deal. Have a good one!
+    Thanks in advance! 🙏
 
   - |
-    Visible newcomer? Use **{code}** for $20 off:
+    💜 **Visible referral:** **`{code}`**
 
-    {link}
+    🔗 {link}
 
-    Thank you!
+    $20 off — we both win! ✨
+
+  - |
+    ### 👋 Been on Visible for a while — here's my code if it helps:
+
+    - 🎟️ **`{code}`**
+    - 🔗 {link}
+
+    $20 off for new sign-ups. Welcome aboard! 🌐💜
+
+  - |
+    ---
+
+    ## 💰 $20 Visible Referral
+
+    - **Code →** **`{code}`**
+    - **Link →** {link}
+
+    ---
+
+    Thanks for considering! 🙌
+
+  - |
+    ### 📲 Visible referral inside ⬇️
+
+    > **Code:** **`{code}`**
+    >
+    > **Link:** {link}
+
+    Pays $20 to both of us — much appreciated! ✨
