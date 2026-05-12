@@ -1,8 +1,9 @@
 name: Post Visible referral
 
 on:
-  schedule:
-    - cron: "0 12 * * *"
+  # Cron disabled until Reddit Data API access is approved. Re-enable by uncommenting.
+  # schedule:
+  #   - cron: "0 12 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
