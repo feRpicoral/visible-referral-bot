@@ -7,6 +7,10 @@ A tiny GitHub-Actions-powered bot that posts your **Visible** referral code as a
 - Picks a different message template each time from `messages.yaml` so your comments aren't identical.
 - Posts **one** top-level comment per megathread — Reddit's spam rules apply even in contest-mode threads.
 
+> ⚠️ **Heads up: this bot currently can't run unattended.** Under Reddit's [Developer Platform](https://redditinc.com/policies/developer-terms) / builder safety policy, scripted posting now requires app review and explicit Data API approval. Until that approval comes through, the daily cron is disabled (see `.github/workflows/post-referral.yml`) and only manual `workflow_dispatch` runs will work — and even those may be blocked by the API.
+>
+> **Workaround:** I rebuilt the same bot on top of a headless browser (Playwright) so it doesn't need API approval. If you just want something that works *today*, use that one instead: **[feRpicoral/visible-referral-headless](https://github.com/feRpicoral/visible-referral-headless)**. This repo will be re-enabled once/if API access is granted.
+
 ## Fork and go
 
 1. **Fork this repo** on GitHub.
